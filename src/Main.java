@@ -9,10 +9,10 @@ public class Main {
         myCar.setBrand("BMW");
         myCar.setModel("E Class");
         myCar.setPlate("LM666HT");
-        System.out.println((myCar.getBrand()));
-        System.out.println((myCar.getModel()));
-        System.out.println((myCar.getEngineSize()));
-        System.out.println((myCar.getPlate()));
+        System.out.println(myCar.getBrand());
+        System.out.println(myCar.getModel());
+        System.out.println(myCar.getEngineSize());
+        System.out.println(myCar.getPlate());
 
     }
 }
