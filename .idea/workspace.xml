@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0576e581-d935-4b5e-b7d7-9f20703c1004" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/esercizio incapsulamento.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="0576e581-d935-4b5e-b7d7-9f20703c1004" name="Changes" comment="esercizio svolto">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -83,12 +78,65 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707993882271</updated>
-      <workItem from="1707993884266" duration="1045000" />
+      <workItem from="1707993884266" duration="2860000" />
     </task>
+    <task id="LOCAL-00001" summary="esercizio svolto">
+      <option name="closed" value="true" />
+      <created>1707995239253</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707995239253</updated>
+    </task>
+    <task id="LOCAL-00002" summary="esercizio svolto">
+      <option name="closed" value="true" />
+      <created>1707995366046</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707995366048</updated>
+    </task>
+    <task id="LOCAL-00003" summary="esercizio svolto">
+      <option name="closed" value="true" />
+      <created>1707995423791</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707995423791</updated>
+    </task>
+    <task id="LOCAL-00004" summary="esercizio svolto">
+      <option name="closed" value="true" />
+      <created>1707995448550</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707995448550</updated>
+    </task>
+    <task id="LOCAL-00005" summary="esercizio svolto">
+      <option name="closed" value="true" />
+      <created>1707995502062</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707995502062</updated>
+    </task>
+    <task id="LOCAL-00006" summary="esercizio svolto">
+      <option name="closed" value="true" />
+      <created>1707995511264</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707995511264</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="esercizio svolto" />
+    <option name="LAST_COMMIT_MESSAGE" value="esercizio svolto" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
